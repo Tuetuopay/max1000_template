@@ -1,0 +1,16 @@
+# Quartus generated files
+.qsys_edit/
+board/
+db/
+incremental_db/
+output_files/
+simulation/
+timing/
+
+# VIM swap files
+*.swp
+*.swo
+
+# OS-specific litter files
+Thumbs.db
+.DS_Store

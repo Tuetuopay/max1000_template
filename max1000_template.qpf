@@ -1,0 +1,5 @@
+QUARTUS_VERSION = "17.1"
+DATE = "13:14:16  February 14, 2018"
+
+# Revisions
+PROJECT_REVISION = "max1000_template"
